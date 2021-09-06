@@ -3,6 +3,7 @@
 This clicker allows you to use 2 Casino machines,
 
 F1 ⇒ Start clicker
+
 F2 ⇒ Stop clicker
 
 ## Using
