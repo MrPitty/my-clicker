@@ -86,9 +86,9 @@ public class Main {
                             int x = pointerInfo.getLocation().x;
                             int y = pointerInfo.getLocation().y;
                             if (right.get()) {
-                                robot.mouseMove(x + 50, y);
+                                robot.mouseMove(x + 100, y);
                             } else {
-                                robot.mouseMove(x - 50, y);
+                                robot.mouseMove(x - 100, y);
                             }
                             right.set(!right.get());
 
